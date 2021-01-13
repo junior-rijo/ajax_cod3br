@@ -1,3 +1,5 @@
 requisições ajax recebe parte de uma página, ou atualiza só uma parte de uma publicação e pode colocar dentro de uma div
 técnica usada com JS
 atualiza a pagina sem atualizar a pagina inteira
+Usando o Callback
+resumindo é uma tecnica em javascript para requisição async 
